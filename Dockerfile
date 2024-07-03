@@ -1,1 +1,2 @@
-"this master"
+FROM nginx
+EXPOSE 80
